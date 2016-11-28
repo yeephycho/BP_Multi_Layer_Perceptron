@@ -1,0 +1,437 @@
+Save the result of 'b value' as follows:
+biasVec_3[0]=-4.219025
+biasVec_3[1]=16.772438
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=5.889906
+biasVec_2[1]=8.802058
+biasVec_2[2]=-6.614269
+biasVec_2[3]=5.455533
+biasVec_2[4]=16.803918
+biasVec_2[5]=3.270328
+biasVec_2[6]=13.109105
+biasVec_2[7]=3.790644
+biasVec_2[8]=18.209896
+biasVec_2[9]=9.064853
+Save the result of 'b value' as follows:
+biasVec_3[0]=-21.461903
+biasVec_3[1]=17.594747
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=8.036534
+biasVec_2[1]=8.031106
+biasVec_2[2]=1.425141
+biasVec_2[3]=19.519201
+biasVec_2[4]=8.067630
+biasVec_2[5]=7.024655
+biasVec_2[6]=1.269765
+biasVec_2[7]=8.312774
+biasVec_2[8]=5.797822
+biasVec_2[9]=9.521370
+Save the result of 'b value' as follows:
+biasVec_3[0]=-6077.499238
+biasVec_3[1]=30.241047
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=60.618187
+biasVec_2[1]=15.876303
+biasVec_2[2]=-3.501245
+biasVec_2[3]=2.144959
+biasVec_2[4]=28.658863
+biasVec_2[5]=114.800419
+biasVec_2[6]=10.208620
+biasVec_2[7]=13.555683
+biasVec_2[8]=14.640269
+biasVec_2[9]=18.210177
+Save the result of 'b value' as follows:
+biasVec_3[0]=-10.204304
+biasVec_3[1]=16.520663
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=6.762996
+biasVec_2[1]=1.350756
+biasVec_2[2]=-6.115807
+biasVec_2[3]=6.360918
+biasVec_2[4]=23.119141
+biasVec_2[5]=1.130524
+biasVec_2[6]=10.825731
+biasVec_2[7]=2.053904
+biasVec_2[8]=18.450758
+biasVec_2[9]=13.637561
+Save the result of 'b value' as follows:
+biasVec_3[0]=23.501852
+biasVec_3[1]=-13.035065
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=54.575333
+biasVec_2[1]=-1.936999
+biasVec_2[2]=56.315150
+biasVec_2[3]=1.587193
+biasVec_2[4]=28.034031
+biasVec_2[5]=13.326427
+biasVec_2[6]=-15.852888
+biasVec_2[7]=-9.431556
+biasVec_2[8]=20.202264
+biasVec_2[9]=-1.499718
+Save the result of 'b value' as follows:
+biasVec_3[0]=-4.099062
+biasVec_3[1]=17.599711
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=-1.697510
+biasVec_2[1]=5.510533
+biasVec_2[2]=15.506080
+biasVec_2[3]=5.103460
+biasVec_2[4]=6.838834
+biasVec_2[5]=2.149269
+biasVec_2[6]=14.699506
+biasVec_2[7]=5.938249
+biasVec_2[8]=23.068520
+biasVec_2[9]=3.865119
+Save the result of 'b value' as follows:
+biasVec_4[0]=16375.776414
+biasVec_4[1]=1023.652659
+biasVec_3[0]=20800.623313
+biasVec_3[1]=5463.396958
+biasVec_2[0]=2335.246755
+biasVec_2[1]=89.003495
+biasVec_2[2]=-4878.427252
+biasVec_2[3]=336.184923
+biasVec_2[4]=481955.374385
+biasVec_2[5]=-94235.878319
+biasVec_2[6]=302403.256271
+biasVec_2[7]=302404.009834
+biasVec_2[8]=151201.085592
+biasVec_2[9]=151200.885391
+Save the result of 'b value' as follows:
+biasVec_4[0]=16194.834375
+biasVec_4[1]=1151.025583
+biasVec_3[0]=20307.635723
+biasVec_3[1]=6167.971002
+biasVec_3[2]=-16.289561
+biasVec_3[3]=-0.777713
+biasVec_3[4]=2.052200
+biasVec_2[0]=-2734865.242989
+biasVec_2[1]=48.051240
+biasVec_2[2]=-28.927955
+biasVec_2[3]=18920.282745
+biasVec_2[4]=320.963702
+biasVec_2[5]=587.873593
+biasVec_2[6]=302403.254989
+biasVec_2[7]=302402.697904
+Save the result of 'b value' as follows:
+biasVec_4[0]=14465.366109
+biasVec_4[1]=348.264392
+biasVec_3[0]=20179.328230
+biasVec_3[1]=5008.644591
+biasVec_3[2]=-5.762671
+biasVec_3[3]=-37.523773
+biasVec_3[4]=-6.484321
+biasVec_2[0]=-26620.471865
+biasVec_2[1]=-147.200541
+biasVec_2[2]=-137.634402
+biasVec_2[3]=-36.840874
+biasVec_2[4]=-247.520986
+biasVec_2[5]=493.168832
+biasVec_2[6]=302403.670956
+biasVec_2[7]=302403.419728
+biasVec_2[8]=151201.580420
+Save the result of 'b value' as follows:
+biasVec_3[0]=-14.266248
+biasVec_3[1]=8.019134
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=12.457339
+biasVec_2[1]=7.575904
+biasVec_2[2]=16.677228
+biasVec_2[3]=5.568476
+biasVec_2[4]=2.818834
+biasVec_2[5]=19.425938
+biasVec_2[6]=1.165948
+biasVec_2[7]=2.019956
+biasVec_2[8]=3.975682
+Save the result of 'b value' as follows:
+biasVec_3[0]=-7.576588
+biasVec_3[1]=25.195524
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=7.345707
+biasVec_2[1]=5.770001
+biasVec_2[2]=13.333658
+biasVec_2[3]=8.149725
+biasVec_2[4]=-1.344651
+biasVec_2[5]=2.017115
+biasVec_2[6]=-1.687415
+biasVec_2[7]=26.113430
+biasVec_2[8]=6.729497
+Save the result of 'b value' as follows:
+biasVec_4[0]=315.511792
+biasVec_4[1]=217.082401
+biasVec_3[0]=442.957631
+biasVec_3[1]=223.510001
+biasVec_3[2]=-2.954666
+biasVec_3[3]=-0.706596
+biasVec_3[4]=-1.054482
+biasVec_2[0]=-22.170408
+biasVec_2[1]=-143.029938
+biasVec_2[2]=-0.284397
+biasVec_2[3]=-370.180272
+biasVec_2[4]=-116.666836
+biasVec_2[5]=2.008033
+biasVec_2[6]=129601.497709
+biasVec_2[7]=129601.826088
+biasVec_2[8]=64800.782348
+Save the result of 'b value' as follows:
+biasVec_4[0]=50.249446
+biasVec_4[1]=83.094867
+biasVec_3[0]=54.435737
+biasVec_3[1]=91.400513
+biasVec_3[2]=-0.540387
+biasVec_3[3]=-1.277445
+biasVec_3[4]=0.086903
+biasVec_2[0]=92.242182
+biasVec_2[1]=18.483011
+biasVec_2[2]=-0.242240
+biasVec_2[3]=0.850294
+biasVec_2[4]=-72.881960
+biasVec_2[5]=0.298091
+biasVec_2[6]=2625.977920
+biasVec_2[7]=2626.603123
+biasVec_2[8]=1313.514535
+Save the result of 'b value' as follows:
+biasVec_4[0]=388.213319
+biasVec_4[1]=1091.206223
+biasVec_3[0]=309.496372
+biasVec_3[1]=1153.445831
+biasVec_3[2]=3.678468
+biasVec_3[3]=-0.988764
+biasVec_3[4]=-2.629292
+biasVec_2[0]=146.095172
+biasVec_2[1]=120.362534
+biasVec_2[2]=3.831326
+biasVec_2[3]=134.479710
+biasVec_2[4]=-300.935486
+biasVec_2[5]=0.596907
+biasVec_2[6]=129600.635195
+biasVec_2[7]=129600.716374
+biasVec_2[8]=64801.489401
+Save the result of 'b value' as follows:
+biasVec_4[0]=10.937348
+biasVec_4[1]=1.255385
+biasVec_3[0]=14.271374
+biasVec_3[1]=2.612502
+biasVec_3[2]=-1.049582
+biasVec_3[3]=-1.339330
+biasVec_3[4]=0.950941
+biasVec_3[5]=0.923034
+biasVec_2[0]=-27.798376
+biasVec_2[1]=105.533422
+biasVec_2[2]=-0.679433
+biasVec_2[3]=-35.541784
+biasVec_2[4]=59.691070
+biasVec_2[5]=-0.058123
+biasVec_2[6]=53.783225
+biasVec_2[7]=53.029601
+biasVec_2[8]=26.987700
+Save the result of 'b value' as follows:
+biasVec_4[0]=9284.952991
+biasVec_4[1]=1491.360998
+biasVec_3[0]=13588.989858
+biasVec_3[1]=5766.512176
+biasVec_3[2]=-4.603750
+biasVec_3[3]=-6.513184
+biasVec_3[4]=-4.905411
+biasVec_3[5]=-3.931945
+biasVec_2[0]=-152.317968
+biasVec_2[1]=281.218301
+biasVec_2[2]=72.358745
+biasVec_2[3]=-8530.803580
+biasVec_2[4]=281.124160
+biasVec_2[5]=101.607849
+biasVec_2[6]=43199.560814
+biasVec_2[7]=43200.262984
+biasVec_2[8]=21601.191537
+Save the result of 'b value' as follows:
+biasVec_4[0]=1040.959140
+biasVec_4[1]=525.364570
+biasVec_3[0]=896.369025
+biasVec_3[1]=533.339779
+biasVec_3[2]=-4.726903
+biasVec_3[3]=0.569434
+biasVec_3[4]=0.996669
+biasVec_3[5]=-1.088601
+biasVec_2[0]=-292.465462
+biasVec_2[1]=-93.752211
+biasVec_2[2]=-117.380550
+biasVec_2[3]=-157.048747
+biasVec_2[4]=69.602577
+biasVec_2[5]=-168.056757
+biasVec_2[6]=43200.973760
+biasVec_2[7]=43200.085305
+biasVec_2[8]=21601.102911
+Save the result of 'b value' as follows:
+biasVec_4[0]=15649.031750
+biasVec_4[1]=3445.556081
+biasVec_3[0]=13387.576733
+biasVec_3[1]=2847.981983
+biasVec_3[2]=-4.386020
+biasVec_3[3]=0.796921
+biasVec_3[4]=0.281457
+biasVec_3[5]=-0.245211
+biasVec_2[0]=-204.543624
+biasVec_2[1]=100553.951314
+biasVec_2[2]=933.934795
+biasVec_2[3]=330.955655
+biasVec_2[4]=1419.575429
+biasVec_2[5]=767.842429
+biasVec_2[6]=43200.751097
+biasVec_2[7]=43201.123239
+biasVec_2[8]=21600.691888
+Save the result of 'b value' as follows:
+biasVec_4[0]=145.321550
+biasVec_4[1]=56.448610
+biasVec_3[0]=133.645218
+biasVec_3[1]=54.325348
+biasVec_3[2]=-0.216086
+biasVec_3[3]=1.237344
+biasVec_3[4]=0.654496
+biasVec_3[5]=1.673968
+biasVec_2[0]=-107.870061
+biasVec_2[1]=399.251940
+biasVec_2[2]=-189.102917
+biasVec_2[3]=91.522423
+biasVec_2[4]=233.280526
+biasVec_2[5]=4.943716
+biasVec_2[6]=43200.320175
+biasVec_2[7]=43201.466512
+biasVec_2[8]=21599.607932
+Save the result of 'b value' as follows:
+biasVec_4[0]=619.804479
+biasVec_4[1]=233.047388
+biasVec_3[0]=544.803665
+biasVec_3[1]=223.592463
+biasVec_3[2]=-0.164395
+biasVec_3[3]=-0.567125
+biasVec_3[4]=-0.560332
+biasVec_3[5]=-6.697024
+biasVec_2[0]=-4.860646
+biasVec_2[1]=-1408.258661
+biasVec_2[2]=-2743.584097
+biasVec_2[3]=-196.530683
+biasVec_2[4]=-11264.962709
+biasVec_2[5]=-165.021616
+biasVec_2[6]=43201.341508
+biasVec_2[7]=43199.775664
+biasVec_2[8]=21599.950593
+Save the result of 'b value' as follows:
+biasVec_3[0]=-23.477998
+biasVec_3[1]=18.204860
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=11.246431
+biasVec_2[1]=38.011696
+biasVec_2[2]=-9.765555
+biasVec_2[3]=18.641272
+biasVec_2[4]=26.750151
+biasVec_2[5]=4.759764
+biasVec_2[6]=25.019774
+biasVec_2[7]=15.643773
+biasVec_2[8]=11.525230
+Save the result of 'b value' as follows:
+biasVec_3[0]=28.059364
+biasVec_3[1]=72.679978
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=9.885008
+biasVec_2[1]=-6.046125
+biasVec_2[2]=51.532212
+biasVec_2[3]=0.677262
+biasVec_2[4]=1.897797
+biasVec_2[5]=20.890764
+biasVec_2[6]=-0.071245
+biasVec_2[7]=22.342801
+biasVec_2[8]=45.583771
+Save the result of 'b value' as follows:
+biasVec_3[0]=-24.634237
+biasVec_3[1]=52.565679
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=10.118613
+biasVec_2[1]=40.165580
+biasVec_2[2]=13.993723
+biasVec_2[3]=28.137017
+biasVec_2[4]=16.206262
+biasVec_2[5]=52.790175
+biasVec_2[6]=37.521364
+biasVec_2[7]=18.545904
+biasVec_2[8]=-7.626879
+Save the result of 'b value' as follows:
+biasVec_3[0]=-32.012150
+biasVec_3[1]=12.272220
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=35.925528
+biasVec_2[1]=23.219436
+biasVec_2[2]=40.941966
+biasVec_2[3]=50.121897
+biasVec_2[4]=4.738647
+biasVec_2[5]=11.785775
+biasVec_2[6]=33.134704
+biasVec_2[7]=33.564157
+biasVec_2[8]=31.044616
+Save the result of 'b value' as follows:
+biasVec_3[0]=-193.141992
+biasVec_3[1]=22.647815
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=42.865868
+biasVec_2[1]=15.735914
+biasVec_2[2]=21.977770
+biasVec_2[3]=43.264037
+biasVec_2[4]=7.432196
+biasVec_2[5]=15.301783
+biasVec_2[6]=9.242136
+biasVec_2[7]=15.411061
+biasVec_2[8]=38.055973
+Save the result of 'b value' as follows:
+biasVec_3[0]=-14.739810
+biasVec_3[1]=17.958391
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=12.439367
+biasVec_2[1]=8.161036
+biasVec_2[2]=32.069359
+biasVec_2[3]=8.589112
+biasVec_2[4]=15.475687
+biasVec_2[5]=17.884002
+biasVec_2[6]=45.712794
+biasVec_2[7]=21.434286
+biasVec_2[8]=15.281045
+Save the result of 'b value' as follows:
+biasVec_3[0]=-13.965913
+biasVec_3[1]=41.841510
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=-11.554437
+biasVec_2[1]=11.444284
+biasVec_2[2]=20.618093
+biasVec_2[3]=27.420423
+biasVec_2[4]=23.990016
+biasVec_2[5]=23.520282
+biasVec_2[6]=3.538345
+biasVec_2[7]=28.094860
+biasVec_2[8]=5.426984
+Save the result of 'b value' as follows:
+biasVec_3[0]=47.575355
+biasVec_3[1]=46.762140
+
+Save the result of 'b value' as follows:
+biasVec_2[0]=16.331475
+biasVec_2[1]=16.481948
+biasVec_2[2]=42.280880
+biasVec_2[3]=12.683087
+biasVec_2[4]=16.104639
+biasVec_2[5]=13.489129
+biasVec_2[6]=76.016548
+biasVec_2[7]=62.224529
+biasVec_2[8]=9.233507
